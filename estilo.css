@@ -1,0 +1,33 @@
+body{
+    width: 100%;
+margin: auto;
+font-family: 'Gill Sans' ;
+color: rgb(209, 106, 46);
+
+text-align: center;
+}
+
+
+h4{
+    font-family: 'Trebuchet MS';
+    color: rgb(197, 25, 25);
+    font-size: 30px;
+}
+
+h2{
+    font-family:'Gill Sans MT';
+    color: rgb(19, 6, 77);
+    font-size: 30px;
+
+}
+
+h1{
+    font-family: 'sans-serif';
+    color: rgb(27, 231, 136);
+    font-size: 30px;
+
+}
+
+main{
+    background:#76eb08;
+}
